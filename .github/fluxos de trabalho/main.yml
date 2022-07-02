@@ -3,7 +3,7 @@ nome : Gerar Dados
 em :
   schedule : # executa a cada 12 horas
 -cron     : " * */12 * * * "
-  fluxo de trabalho :
+  workflow_dispatch :
 
 empregos :
   construir :
